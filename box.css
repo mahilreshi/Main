@@ -1,0 +1,19 @@
+#box1{
+    background-color: rgb(255, 2, 204);
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+#box2{
+    background-color: rgb(0, 136, 255);
+    height: 100px;
+    width: 100px;
+}
+body{
+    background-color: black;
+}
+#heading{
+    background-color: beige;
+}

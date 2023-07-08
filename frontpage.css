@@ -1,0 +1,65 @@
+body{
+    background-color: antiquewhite;
+}
+
+#title{
+    margin: auto;
+    height: 10px;
+    width: 10px;
+    padding-bottom: 90px;
+    text-align: center;
+}
+#menu{
+    background-color: rgb(240, 136, 136);
+    text-align: center;
+    height: 30px;
+}
+.menu{
+    display:inline-block;
+            vertical-align:top;
+            background-color:#f5b98f;
+            color:#000;
+            margin-top:1.5px;
+            text-decoration: solid;
+            padding:3px 15px;
+            font-size:15px;
+}
+.menu:hover{
+    background-color: rgb(128, 128, 128);
+    color: rgb(1, 242, 161);
+}
+#introduction{
+    background-color: aquamarine;
+    text-align:justify;
+    margin-left:5px;
+    margin-bottom:3px;
+    padding:5px;
+    font-family:'Arial Rounded MT';
+    font-size:13px;
+    height: 200px;
+    width: 150px;
+    float: left;
+}
+#more{
+    background-color: yellow;
+    text-align:justify;
+    margin-left:5px;
+    margin-bottom:3px;
+    padding:5px;
+    font-family:'Arial Rounded MT';
+    font-size:13px; height: 200px;
+    width: 150px;
+    float: left;
+}
+#cz{
+    background-color: rgb(180, 51, 4);
+    text-align:justify;
+    margin-left:5px;
+    margin-bottom:3px;
+    padding:5px;
+    font-family:'Arial Rounded MT';
+    font-size:13px;
+    height: 200px;
+    width: 150px;
+    float: left;
+}

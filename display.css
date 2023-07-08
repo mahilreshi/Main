@@ -1,0 +1,10 @@
+.box1{
+    background-color: rgb(97, 97, 97);
+    display: block;
+    width: 100px;
+}
+.box2{
+    background-color: rgb(225, 75, 75);
+    display: block;
+    width: 100px;
+}
